@@ -1,5 +1,5 @@
 # POO-data-structure
 
--Queue
--Stack
+-Queue <br>
+-Stack  <br>
 -Linked list
